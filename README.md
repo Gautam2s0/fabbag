@@ -10,5 +10,12 @@ https://fabbags.netlify.app/
   <li>CSS</li>
   <li>JavaScript</li>
 </ul>
+### Screenshot of website
+<img src="./">
+<img src="./screenshot/home.png">
+<img src="./screenshot/signle.png">
+<img src="./screenshot/signup.png">
+<img src="./screenshot/signin.png">
+
 
 
