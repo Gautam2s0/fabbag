@@ -11,11 +11,4 @@ https://fabbags.netlify.app/
   <li>JavaScript</li>
 </ul>
 
-# Features
-<ul>
-  <li>Signup</li>
-  <li>Login</li>
-    <li>Sorting</li>
-  <li>Individual Item Pages</li>
-  <li>Filtering glasses by their Type and category including Men,Women and Kids</li>
-</ul>
+
