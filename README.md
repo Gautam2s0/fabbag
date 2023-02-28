@@ -11,7 +11,7 @@ https://fabbags.netlify.app/
   <li>JavaScript</li>
 </ul>
 ### Screenshot of website
-<img src="./">
+
 
 ## Home page
 
