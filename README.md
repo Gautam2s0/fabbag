@@ -12,9 +12,21 @@ https://fabbags.netlify.app/
 </ul>
 ### Screenshot of website
 <img src="./">
+
+## Home page
+
 <img src="./screenshot/home.png">
+
+## Single Product
+
 <img src="./screenshot/signle.png">
+
+## Signup page
+
 <img src="./screenshot/signup.png">
+
+## SignIn page
+
 <img src="./screenshot/signin.png">
 
 
