@@ -13,6 +13,7 @@ function information(event){
         firstname,
         lastname,
         email,
+        
         password,
     }
     let p1=document.createElement("p")
